@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#form_user{
+   
+    text-align: center;
+    color:aliceblue;
+
+}
+
+#form_user > table {
+        margin-top: 6px;
+        margin-bottom: 20px;
+        text-indent: 8px;
+        border-color: inherit;
+        border-collapse: collapse;
+    
+}
+
+
+
+#btn_form{
+    margin-top: 7px ;
+}
+#btn_ad{
+    background-color:aliceblue;
+    border-radius:20px;
+    padding: 7px;
+    text-align: center;
+    margin: 0 auto;
+}
+#btn_usr{
+    background-color:aliceblue;
+    color:rgb(17, 24, 39 );
+    border-radius:20px;
+    padding:  3px 7px ;
+    text-align: center;
+    margin-top: 6px;
+}
+#btn_adn{
+    background-color:aliceblue;
+    color:rgb(0, 0, 0);
+    border-radius:20px;
+    padding:  3px 7px ;
+    text-align: center;
+    margin: 5 ;
+}
+#aa{
+    background-color:aliceblue;
+    color:rgb(0, 0, 0);
+    border-radius:20px;
+    padding:  3px 7px ;
+    text-align: center;
+    margin-top: 7px ;
+    margin-bottom: 7px;
+
+}
+#h_ad{
+    color:rgb(255, 255, 255);
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#form_ad input{
+    border-radius:20px;
+   
+}
+
+#form_ad {
+    border-radius:20px;
+    text-align: center;
+}
+
+#form_ads  {
+    border-radius:20px;
+    text-align: center;
+}
+
+#form_ads input{
+    border-radius:20px; 
+    margin-top: 5px;
+    
+}
+
+
+
+
+
+
+
+#redi_btn{
+    background-color: #4166d5;
+
+    color: rgb(250, 250, 250);
+
+    border-radius: 20px;
+    padding: 10px;
+
+    margin-top: 50px;
+
+    margin-left: 10px;
+}
+
+#divi{
+    text-align: center;
+   
+}
